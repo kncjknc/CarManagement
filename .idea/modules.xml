@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Triamle_Car_Lease_Managemant.iml" filepath="$PROJECT_DIR$/.idea/Triamle_Car_Lease_Managemant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cars.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cars.main.iml" />
+    </modules>
+  </component>
+</project>

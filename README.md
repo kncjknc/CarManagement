@@ -39,5 +39,5 @@ A **Spring Boot-based** Car Lease Management System that allows **car owners** t
 ### **Steps to Run**
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo/trimble-cars.git
+   git clone https://github.com/kncjknc/CarManagement.git
    cd trimble-cars
